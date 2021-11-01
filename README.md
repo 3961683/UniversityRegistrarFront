@@ -1,4 +1,5 @@
-# second_lesson_web
+# University Register
+
 
 ## Project setup
 ```
